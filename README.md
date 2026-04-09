@@ -2,7 +2,7 @@
 
 ## Dataset informations 
 ### Source link : https://catalog.ourworldindata.org/garden/covid/latest/compact/compact.csv
-### Cleaned Rows : 570606 raws 
+### Cleaned Rows : 570606 rows 
 ### columns : 61 colums 
 ## Variable decription 
 | Variable                         | Description                                                  | Type   |
